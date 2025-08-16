@@ -8,10 +8,10 @@
     "react-scripts": "5.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "react-scripts start", // Dev server start command
+    "build": "react-scripts build", // Build for production
+    "test": "react-scripts test", // Run tests
+    "eject": "react-scripts eject" // Eject configuration
   },
   "eslintConfig": {
     "extends": [
