@@ -2,6 +2,7 @@
   "name": "to-do-list-react-hooks",
   "version": "1.0.0",
   "private": true,
+  "description": "A simple to-do list application built with React hooks.",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
